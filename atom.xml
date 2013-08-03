@@ -4,11 +4,11 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Through a cloud, darkly.</title>
- <link href="http://aclouddarkly.com/atom.xml" rel="self"/>
- <link href="http://aclouddarkly.com/"/>
+ <title>gorsuch.github.io</title>
+ <link href="http://gorsuch.github.io/atom.xml" rel="self"/>
+ <link href="http://gorsuch.github.io/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://aclouddarkly.com/</id>
+ <id>http://gorsuch.github.io/</id>
  <author>
    <name>Michael Gorsuch</name>
    <email>michael.gorsuch@gmail.com</email>
@@ -17,9 +17,9 @@ layout: nil
  {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="http://gorsuch.github.com{{ post.url }}"/>
+   <link href="http://gorsuch.github.io/{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://aclouddarkly.com{{ post.id }}</id>
+   <id>http://gorsuch.github.io{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endfor %}
