@@ -3,7 +3,7 @@ layout: post
 title: Brief thoughts on Docker
 ---
 
-I've been playing with [Docker](http://www.docker.io/) recently, digging in to see if we use it to decouple our ever growing number of applications at [GitHub](https://github.com) from the underlying infrastructure.
+I've been playing with [Docker](http://www.docker.io/) recently, digging in to see if we can use it to decouple our ever growing number of applications at [GitHub](https://github.com) from the underlying infrastructure.
 
 Initial experiments are promising.  I [built an image](https://github.com/gorsuch/dockerfile-examples/blob/master/rbenv/Dockerfile) containing a minimal `rbenv` configuration and was able to get a trivial app up and running - all while watching an episode of _[Sons of Anarchy](http://en.wikipedia.org/wiki/Sons_of_Anarchy)_.  I even opened up an [amazing pull request](https://github.com/dotcloud/docker/pull/1400) when the action slowed.
 
