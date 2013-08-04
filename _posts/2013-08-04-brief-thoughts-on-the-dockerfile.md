@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brief thoughts on the Dockerfile
+title: Brief thoughts on Docker
 ---
 
 I've been playing with [Docker](http://www.docker.io/) recently, digging in to see if we use it to decouple our ever growing number of applications at [GitHub](https://github.com) from the underlying infrastructure.
