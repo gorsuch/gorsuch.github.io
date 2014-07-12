@@ -17,7 +17,7 @@ I am happily employed at [Simple](https://www.simple.com/), focusing on technica
 
 ## Current Readings
 
-Currently trying on making sense of [Satipatthana](http://en.wikipedia.org/wiki/Satipatthana) in both theory and practice.  I'm leaning on the following works:
+Currently trying on making sense of the [Satipatthana Sutta](http://en.wikipedia.org/wiki/Satipatthana_Sutta) in both theory and practice.  I'm leaning on the following works:
 
 * [_Satipatthana: The Direct Path to Realization_](http://www.amazon.com/Satipatthana-The-Direct-Path-Realization/dp/1899579540)
 * [_Perspectives on Satipatthana_](http://www.amazon.com/Perspectives-Satipatthana-Bhikkhu-Analayo/dp/190931403X/)
