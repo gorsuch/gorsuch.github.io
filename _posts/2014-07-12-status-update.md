@@ -3,7 +3,7 @@ layout: post
 title: Status Update
 ---
 
-It's been a long, long time since I've written anything at all.  So here are some brief notes to at least give some status:
+It's been a long, long time since I've written anything.  Here are some brief notes on current status:
 
 ## Family
 
