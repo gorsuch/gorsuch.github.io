@@ -9,7 +9,7 @@ It's been a long, long time since I've written anything at all.  So here are som
 
 I am married and have two kids.  Twin daughters, to be more specific.  They are wonderful and give me a good reason to keep my nose clean.
 
-We have a dog, Starbuck, named after the character from the reimagined [_Battlestar Galactica_](http://en.wikipedia.org/wiki/Battlestar_Galactica_(2004_TV_series)).  I really have no idea why we did that, but it works.
+We have a dog, Starbuck, named after the character from the reimagined [_Battlestar Galactica_](http://en.wikipedia.org/wiki/Battlestar_Galactica).  I really have no idea why we did that, but it works.
 
 ## Work
 
