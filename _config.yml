@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            don't panic
 tagline:          'dev, ops and dharma'
-description:      "dev, ops and dharma. a weblog by <a href='mailto:michael.gorsuch@gmail.com'>michael gorsuch</a>."
+description:      "dev, ops and dharma. written by <a href='mailto:michael.gorsuch@gmail.com'>michael gorsuch</a>."
 url:              http://gorsuch.github.io
 baseurl:          /
 
