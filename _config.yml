@@ -9,7 +9,7 @@ permalink:        pretty
 title:            don't panic
 tagline:          'dev, ops and dharma'
 description:      "dev, ops and dharma. written by <a href='mailto:michael.gorsuch@gmail.com'>michael gorsuch</a>."
-url:              http://gorsuch.github.io
+url:              http://blog.gorsuch.systems
 baseurl:          /
 
 author:
