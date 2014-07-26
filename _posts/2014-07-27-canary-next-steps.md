@@ -31,7 +31,7 @@ I plan on making the following changes so that we can continue to support this:
 
 ### Replace existing sensord component
 
-A new `sensord` component will be born inside the [canaryio/canary](https://github.com/canaryio/canary) repository.  Its spec is defined [here](), but the main takeaway:
+A new `sensord` component will be born inside the [canaryio/canary](https://github.com/canaryio/canary) repository.  Its spec is defined [here](https://github.com/canaryio/canary/issues/6), but the main takeaway:
 
 * measurements can optionally be written to stdout, one JSON item per line
 * measurements can optinally be sent to a [statsd](https://github.com/etsy/statsd/) aggregator, allowing you to get them into the metrics backend of your choosing
@@ -39,11 +39,13 @@ A new `sensord` component will be born inside the [canaryio/canary](https://gith
 * removal of `go-curl` dependency, instead pushing us to go's `net/http` package
 * removal of `go-metrics` for operational metrics, relying on `statsd` instead
 
+This new incarnation of `sensord` is not meant to be tightly coupled to `canaryd` as it is today.  Instead, you can easily integrate it into your existing graphite / logstash / heka / etc setup that is already deployed in your environment.
+
 The current [canary/sensord](https://github.com/canaryio/sensord) component will be deprecated. The repo will remain, but we will not accept further issues or pull requests.
 
 ### Replace existing canaryd component
 
-Similar to `sensord`, a new component will be created as a subpackage of [canaryio/canary](https://github.com/canaryio/canary).  The spec is [here](), the main points being:
+Similar to `sensord`, a new component will be created as a subpackage of [canaryio/canary](https://github.com/canaryio/canary).  The spec is [here](https://github.com/canaryio/canary/issues/7), the main points being:
 
 * continue to use redis a backend
 * receive measurements via HTTP
