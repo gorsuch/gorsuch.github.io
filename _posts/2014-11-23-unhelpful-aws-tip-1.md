@@ -25,7 +25,7 @@ metadata = {
   cmd:           'bin/web'
 }
 
-script=<<END
+script=<<ENDSCRIPT
 #!/bin/bash
 
 set -exo pipefail
@@ -62,7 +62,7 @@ chmod +x /etc/sv/app/log/run
 
 # symlink to turn our app on
 ln -s /etc/sv/app /etc/service/app
-END
+ENDSCRIPT
 
 ec2 = AWS::EC2.new
 i = ec2.instances.create({
