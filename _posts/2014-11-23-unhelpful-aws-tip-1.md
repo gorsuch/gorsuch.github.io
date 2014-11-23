@@ -11,7 +11,7 @@ This isn't the right way to approach EC2.  In the AWS model, you want your EC2 i
 
 It's useful to think of EC2 instances as nothing more than dynamic compute containers awaiting instruction.  For example, take a look at this small ruby script:
 
-```rb
+```
 #!/usr/bin/env ruby
 
 require 'aws-sdk'
