@@ -108,6 +108,6 @@ Things that immediately jump to mind:
 
 ## In Summary
 
-The more you treat EC2 instances like bare metal computers, the more you'll hate your life.  Treat them like single-task compute instances, and you'll find yourself working with something more like legos.
+The more you treat EC2 instances like bare metal computers, the more you'll hate your life.  Treat them like single-task compute instances, and you'll find yourself working with something more like legos.  Start treating complexity as a smell, and see how it pays off for you.
 
 Future posts will likely dig into improvements and higher level concerns.  I'll probably also go all hipster on you and demonstrate how docker could be applied here.
