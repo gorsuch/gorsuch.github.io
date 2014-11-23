@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unhelpful AWS Tip #1 - Compute Instances, Not Computers
+title: Unhelpful AWS Tip 1 - Compute Instances, Not Computers
 ---
 
 *I've been hacking around on AWS for five years now, and am starting to compile a list of tips and tricks to help make the most of things.  I'm hoping to use this series of posts to help me clarify my own thinking, and if you find any of this helpful, even better.*
