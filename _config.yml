@@ -24,3 +24,5 @@ github:
 
 twitter:
   account:           https://twitter.com/michaelgorsuch
+
+plugins: [jekyll-paginate]
