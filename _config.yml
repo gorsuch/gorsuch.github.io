@@ -9,8 +9,8 @@ kramdown:
 permalink:        pretty
 
 # Setup
-title:            A Hot Mess
-tagline:          "links from all over the place."
+title:            Michael Gorsuch's Blog
+tagline:          "A Hot Mess"
 description:      "links from all over the place. curated by <a href='mailto:michael.gorsuch@gmail.com'>michael gorsuch</a>."
 url:              https://michaelgorsuch.com
 baseurl:          "/"
