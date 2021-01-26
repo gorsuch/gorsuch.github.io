@@ -9,10 +9,10 @@ kramdown:
 permalink:        pretty
 
 # Setup
-title:            don't panic
-tagline:          'dev, ops and dharma'
-description:      "dev, ops and dharma. written by <a href='mailto:michael.gorsuch@gmail.com'>michael gorsuch</a>."
-url:              http://gorsuch.github.io
+title:            A Hot Mess
+tagline:          "links from all over the place."
+description:      "links from all over the place. curated by <a href='mailto:michael.gorsuch@gmail.com'>michael gorsuch</a>."
+url:              https://gorsuch.github.io
 baseurl:          /
 
 author:
